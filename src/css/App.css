@@ -1,0 +1,30 @@
+nav a{
+    margin: 1rem;
+    font-size: 20pt;
+    text-decoration-line: none;
+    color: white;   
+}
+.barra{
+    background-color: rgb(245, 128, 148); 
+    justify-content: center;
+    text-align: center;   
+    padding-top: 10%;
+    padding-top: 8px;
+
+}
+
+nav a:hover{
+    margin: 1rem;
+    font-size: 20pt;
+    text-decoration-line: none;
+    color: rgb(155, 221, 188);   
+}
+.pie{
+    background-color: rgb(245, 128, 148);
+    justify-content: center;
+    text-align: center;
+    color: white;
+    margin-top: 40%;;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}

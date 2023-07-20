@@ -1,0 +1,12 @@
+.contenedor{
+    display:block;    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    margin: 25%;
+    margin-top: 100px;
+}
+.precio{
+    color: rgb(142, 59, 219);
+}
